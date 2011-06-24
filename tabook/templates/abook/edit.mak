@@ -5,5 +5,5 @@
 </%def>
 
 <div id="main_content">
-  ${tmpl_context.form}
+  ${ tmpl_context.form }
 </div>

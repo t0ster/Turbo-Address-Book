@@ -68,9 +68,7 @@
     <p><a href="http://www.turbogears.org/">Powered by TurboGears 2</a></p>
   </div>
   <div class="foottext">
-    <p>TurboGears is a open source front-to-back web development
-      framework written in Python. Copyright (c) 2005-2009 </p>
-  </div>
+ </div>
   <div class="clearingdiv"></div>
 </div>
 </%def>

@@ -1,6 +1,8 @@
 Installation and Setup
 ======================
 
+Create and activate virtualenv.
+
 Install ``Turbo-Address-Book`` using the setup.py script::
 
     $ cd Turbo-Address-Book
@@ -18,4 +20,7 @@ While developing you may want the server to reload after changes in package file
 
     $ paster serve --reload development.ini
 
-Then you are ready to go.
+Go to http://localhost:8000
+
+* Login: manager
+* Password: managepass

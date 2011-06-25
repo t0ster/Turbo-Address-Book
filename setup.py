@@ -34,6 +34,8 @@ setup(
     #url='',
     install_requires=[
         "TurboGears2 >= 2.1.1",
+        "tg.devtools",
+        "genshi",
         "Mako",
         "zope.sqlalchemy >= 0.4",
         "repoze.tm2 >= 1.0a5",
